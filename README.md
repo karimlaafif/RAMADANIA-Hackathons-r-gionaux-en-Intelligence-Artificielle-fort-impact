@@ -1,4 +1,3 @@
-Here is your reorganized and polished README. In line with your preferences, I have integrated the Arabic script for the project name and descriptions to reflect the cultural identity of the app.
 
 ---
 
@@ -105,6 +104,5 @@ The MVP is built on a modular stack focused on local performance and high-qualit
 
 ---
 
-**Organized for:** *RAMADANIA Hackathons régionaux en Intelligence Artificielle à fort impact*
 
-Would you like me to refine the **System Architecture** section with more technical details or help you write the `README` description in full Arabic as well?
+
